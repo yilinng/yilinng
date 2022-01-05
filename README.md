@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://img.shields.io/badge/-portfolio-blue" width="50" height="25"/>](https://github.com/)\
+[<img src="https://img.shields.io/badge/-portfolio-blue" width="50" height="25"/>](https://yiling-blog.vercel.app)\
 Enthusiastic Frontend Developer , passion on Web app development, React, Vue, Javascript/Es6/Es2017, HTML, CSS, Bootstrap, TailwindCSS. 
-Currently learn ruby.
+<hr>
+
+-🌱 I’m currently learning learn ruby.
+
+-👯 I’m looking for looking for new job.
+
+
