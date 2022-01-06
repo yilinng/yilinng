@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://img.shields.io/badge/-portfolio-blue" width="50" height="25"/>](https://yiling-blog.vercel.app)\
+[<img src="https://img.shields.io/badge/-portfolio-blue" width="50" height="30"/>](https://yiling-blog.vercel.app)\
 Enthusiastic Frontend Developer ,focus on Web app development, React, Vue, Javascript/Es6/Es2017, HTML, CSS, Bootstrap, TailwindCSS. 
 <hr>
 
@@ -23,21 +23,20 @@ Enthusiastic Frontend Developer ,focus on Web app development, React, Vue, Javas
 
 -👯 I’m looking for looking for new job.
 
-<h3 align="center">My projects</h3>
+<h3 align="center">My projects :hamster:</h3>
 
 
   
 | [<img src="https://yiling-blog.vercel.app/vueruby.png" width="350" height="250">](https://vue-ruby-murex.vercel.app/) | [<img src="https://yiling-blog.vercel.app/reactnode.png" width="350" height="250">](https://node-client-eight.vercel.app/login) |
 |------------|-------------|
-  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=vue-ruby)](https://github.com/yilinng/vue-ruby)          | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=node--client)](https://github.com/yilinng/node--client)      |
+  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=vue-ruby&layout=compact)](https://github.com/yilinng/vue-ruby)          | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=node--client&layout=compact)](https://github.com/yilinng/node--client)      |
   
   
   
   
 | [<img src="https://yiling-blog.vercel.app/tvmaze.png" width="350" height="250">](https://tv-react.vercel.app/) | [<img src="https://yiling-blog.vercel.app/invoice.png" width="350" height="250">](https://rails-react-invoicing-app.herokuapp.com/) |
 |------------|-------------|
-  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=tv_react)](https://github.com/yilinng/tv_react)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=rails_react_invoicing_app)](https://github.com/yilinng/rails_react_invoicing_app)       |
-  
+  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=tv_react&layout=compact)](https://github.com/yilinng/tv_react)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=rails_react_invoicing_app&layout=compact)](https://github.com/yilinng/rails_react_invoicing_app)       |
   
   ---
   
