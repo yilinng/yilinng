@@ -39,7 +39,8 @@ Enthusiastic Frontend Developer ,focus on Web app development, React, Vue, Javas
   | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=tv_react)](https://github.com/yilinng/tv_react)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=rails_react_invoicing_app)](https://github.com/yilinng/rails_react_invoicing_app)       |
   
   
-  <hr>
+  ---
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilinng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
