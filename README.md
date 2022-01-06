@@ -29,7 +29,7 @@ Enthusiastic Frontend Developer ,focus on Web app development, React, Vue, Javas
   
 | [<img src="https://yiling-blog.vercel.app/vueruby.png" width="350" height="250">](https://vue-ruby-murex.vercel.app/) | [<img src="https://yiling-blog.vercel.app/reactnode.png" width="350" height="250">](https://node-client-eight.vercel.app/login) |
 |------------|-------------|
-  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=vue-ruby&layout=compact&theme=material-palenight)](https://github.com/yilinng/vue-ruby)          | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=node--client&layout=compact&theme=material-palenight)](https://github.com/yilinng/node--client)      |
+  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=vue-ruby&layout=defult&theme=material-palenight)](https://github.com/yilinng/vue-ruby)          | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yilinng&repo=node--client&layout=compact&theme=material-palenight)](https://github.com/yilinng/node--client)      |
   
   
   
