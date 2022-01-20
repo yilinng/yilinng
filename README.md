@@ -44,7 +44,7 @@ focus on Web app development, React, Vue, Javascript/Es6/Es2017, HTML, CSS, Boot
   ---
   <h1 align="center">About me</h1>
   
-  🌱 I’m currently learning learn ruby and typescript.
+  🌱 I’m currently learning learn ruby and typescript and svg animation.
  
  
   🤔 I’m looking for help with ruby and typescript.
